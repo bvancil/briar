@@ -1,3 +1,4 @@
+# Example from https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
 #' A Cat Function
 #'
 #' This function allows you to express your love of cats.
